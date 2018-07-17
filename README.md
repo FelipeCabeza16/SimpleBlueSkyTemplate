@@ -1,5 +1,5 @@
 # SimpleBlueSkyTemplate
-You have here a simple responsive bootstrap template, you can adapt it to any project that you need.
+You have here a simple responsive *HTML5* bootstrap template, you can adapt it to any project that you need.
 
 
 This project is made with Bootstrap, in the file are a **little code in PHP**. With that code any file creates a .txt file that writes, read and counts the number of visits at the page.
