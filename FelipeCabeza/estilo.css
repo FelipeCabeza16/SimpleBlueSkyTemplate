@@ -1,0 +1,63 @@
+@import url("bootstrap.css");
+@import url("bootstrap-responsive.css");
+
+
+
+
+h3{
+color:orange;	
+}
+.otros:hover{
+opacity: 0.6;	
+
+}
+body {
+
+min-height: 75rem;
+background-color:#489cdf;
+
+}
+@media(max-width:991px){
+.otros{
+text-align:center;	
+}
+
+img{
+max-width:220px; 
+ 
+}
+body{
+background-color:#489cdf; 	
+}
+
+a{
+text-align:center;	
+}
+h1{
+text-align:center; 
+
+}
+h3{
+text-align:center; 
+
+}
+#boton{
+text-align:center;	
+}
+p
+{
+text-align: center;
+
+}
+}
+#u:active{
+color:green;
+
+}
+
+
+#u:hover{
+color:#ff0000;
+font-weight:bold; 
+text-decoration:none; 
+}
