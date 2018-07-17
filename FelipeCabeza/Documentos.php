@@ -75,12 +75,13 @@ contador($cuenta);
 <hr>
 <br/>
 
-<ul><li><a href="https://github.com/FelipeCabeza16/JavaMailSystemTemplate" id="u">JavaMailSystemTemplate</a></li>
-<li><a href="https://github.com/FelipeCabeza16/JavaMailSystemTemplatePrototype2" id="u">JavaMailSystemTemplatePrototype2</a></li></ul>
-<li><a href="https://github.com/FelipeCabeza16/mini-simulator" id="u">mini-simulator</a></li></ul>
-<li><a href="https://github.com/FelipeCabeza16/SimpleBlueSkyTemplate" id="u">SimpleBlueSkyTemplate</a></li></ul>
 
-        </ul>
+<ul><li><a href="https://github.com/FelipeCabeza16/JavaMailSystemTemplate" id="u">JavaMailSystemTemplate</a></li>
+<li><a href="https://github.com/FelipeCabeza16/JavaMailSystemTemplatePrototype2" id="u">JavaMailSystemTemplatePrototype2</a></li>
+<li><a href="https://github.com/FelipeCabeza16/mini-simulator" id="u">mini-simulator</a></li>
+<li><a href="https://github.com/FelipeCabeza16/SimpleBlueSkyTemplate" id="u">SimpleBlueSkyTemplate</a></li>
+
+</ul>
 
         
           
