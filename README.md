@@ -7,12 +7,12 @@ This project is made with Bootstrap, in the file are a **little code in PHP**. W
 
 THANKS FOR WATCHING :) in the project you can find my social networks.
 
-I expect that works for you, enjoy it and you can contact me for any question or suggest +1+1.
+I expect that works for you, enjoy it and you can contact me for any question or suggest .
 
-Mail incoming_envelope:
+Mail 📩📩:
 
 andresfelipecabeza16@gmail.com
 
-And you can follow or contact me on Twitter too.
+And you can follow or contact me on Twitter too 👍👍.
 
 https://www.twitter.com/FelipeCabeza16
